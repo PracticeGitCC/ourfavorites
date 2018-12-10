@@ -1,7 +1,7 @@
 
 public class HelloWorld {
 	
-	public void IanBranch() {
+	public void EverybodysBranch() {
 		System.out.println("Ian");
 		System.out.println("Ian");
 		System.out.println("Ian");
