@@ -11,12 +11,13 @@ public class HelloWorld {
 	System.out.println("NO MAGGIE IS THE BEST. - maggie's commit #2");
 	System.out.println("NO MAGGIE IS THE BESTEST. - maggie's commit #3");
 	
-	System.out.println("LALALALALLALALLALA THIS IS MAGGIE's BRACH ");
+	System.out.println("LALALALALLALALLALA THIS IS MAGGIE's BRANCH ");
 	System.out.println("Let's see what problemsssssssssssssssss happen now. YAY.");
 	String maggie = "MAGGIE";
 	for(int i = 0; i<6; i++) {
 		System.out.println(String[i]);
 	}
+	System.out.println("added line");
 	
 	
 	}
